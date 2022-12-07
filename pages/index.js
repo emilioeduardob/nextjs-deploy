@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+          Usando TypeScript, mirar <a href="/about">about</a>
         </p>
 
         <div className={styles.grid}>
